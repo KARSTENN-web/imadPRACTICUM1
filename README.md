@@ -3,3 +3,4 @@ github.com/KARSTENN-web/imadPRACTICUM1.git
 ![Screenshot 2025-06-19 115757](https://github.com/user-attachments/assets/74be1d0b-6979-435d-90b0-affc0bae7a7d)
 ![Screenshot 2025-06-19 115821](https://github.com/user-attachments/assets/9c0ad31e-2b02-48c0-a028-19bacff0fbc8)
 ![Screenshot 2025-06-19 115834](https://github.com/user-attachments/assets/26924afe-8e07-40a7-96b9-c38aa1072d97)
+![Screenshot 2025-06-19 115847](https://github.com/user-attachments/assets/81d12816-a295-4e79-b4ba-34e814d7e5b8)
